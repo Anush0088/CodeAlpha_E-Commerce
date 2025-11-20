@@ -246,7 +246,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Your Name**
 - GitHub: [@Anush0088] https://github.com/Anush0088
 - LinkedIn:[Anush Karanapu] https://www.linkedin.com/in/anush-karanapu-043174290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- Email: karanapuanush@gmail.com
+- Email:anush.23bai11008@vitbhopal.ac.in
 
 ## 🙏 Acknowledgments
 
